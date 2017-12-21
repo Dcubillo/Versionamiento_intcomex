@@ -1,0 +1,4 @@
+Cree una carpeta llamada "Nimbus_files"
+Agregue el archivo de "Celia"
+Agregue el archivo merge.bat
+Agregue el cvs llamado "urls" en este archivo se agregan todas las urls de los catalogos que se quieren descargar
